@@ -11,6 +11,15 @@
 Welcome to our team repository for **CS 200 (Software Engineering)** at The University of Alabama.
 We use this repo to practice Git and GitHub and to share our team assignments.
 
+## Project 4 — ChocAn implementation
+
+The completed Java application, final UMLetino diagram, run instructions, and demonstration guide are in [ChocAn_project4](ChocAn_project4/README.md).
+
+- [Integrated Java source](ChocAn_project4/src/chocan)
+- [Final editable UML diagram](ChocAn_project4/ChocAn_Final_ClassDiagram.uxf)
+- [Demonstration guide](ChocAn_project4/DEMO_GUIDE.md)
+- [Google Doc contribution text](ChocAn_project4/GOOGLE_DOC_TEXT.txt)
+
 ## 👥 Team Members
 
 | Faizan Khan | Maggie Skinner | Martin Devanathan | Tallon King | Alyssa Duncan |

@@ -1,5 +1,7 @@
 # ChocAn — Project 4, Team 37
 
+**Updated Project 4 ZIP — use this one:** [ChocAn_Project4_Submission.zip](https://github.com/Marti977/cs200-lab2-team37/raw/refs/heads/main/ChocAn_project4/ChocAn_Project4_Submission.zip). Includes the completed Java application, final UML, run instructions, and demo guide. The other two ZIP files are original teammate uploads and are not the integrated version.
+
 The integrated application is in **`src/chocan/`**. The original teammate ZIP uploads and loose Java files in this directory are preserved as source history; do not compile those copies together with `src/`.
 
 ## Compile and run

@@ -15,13 +15,6 @@ We use this repo to practice Git and GitHub and to share our team assignments.
 
 **Updated Project 4 ZIP — use this one:** [ChocAn_Project4_Submission.zip](https://github.com/Marti977/cs200-lab2-team37/raw/refs/heads/main/ChocAn_project4/ChocAn_Project4_Submission.zip). Includes the completed Java application, final UML, run instructions, and demo guide. The other two ZIP files are original teammate uploads and are not the integrated version.
 
-The completed Java application, final UMLetino diagram, run instructions, and demonstration guide are in [ChocAn_project4](ChocAn_project4/README.md).
-
-- [Integrated Java source](ChocAn_project4/src/chocan)
-- [Final editable UML diagram](ChocAn_project4/ChocAn_Final_ClassDiagram.uxf)
-- [Demonstration guide](ChocAn_project4/DEMO_GUIDE.md)
-- [Google Doc contribution text](ChocAn_project4/GOOGLE_DOC_TEXT.txt)
-
 ## 👥 Team Members
 
 | Faizan Khan | Maggie Skinner | Martin Devanathan | Tallon King | Alyssa Duncan |
